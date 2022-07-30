@@ -2,6 +2,7 @@
   "name": "eg-frontend",
   "version": "0.1.0",
   "private": true,
+  "proxy": "http://localhost:3001",
   "dependencies": {
     "@carbon/react": "^1.8.0",
     "@testing-library/jest-dom": "^5.14.1",
